@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabrielly Caroline :D </h1>
 
 <p align="center">
-  <b>Information Systems Student | QA | Data Enthusiast</b><br>
+  <b>Information Systems Student | Full Stack Developer Trainee | End-to-End | Data Enthusiast</b><br>
 
 </p>
 
@@ -9,13 +9,14 @@
 
 ### 👩‍💻 About Me
 
-I'm a Information Systems student specializing in **Quality Assurance (QA)** with a growing passion for **Data Analysis**. I have hands-on experience in software testing, database management, and building full-stack web systems.
+I'm an Information Systems student specializing in **Full Stack Development**, building real-world systems for schools, retailers, and environmental management.
 
-- 🔍 Currently focused on **QA** and **Data Analysis**
-- 🛠️ Building [SIJ](https://github.com/gyabyss) — a full-stack system to digitize student absence justifications
-- 📊 Exploring **Data Analysis** with PostgreSQL, Pandas, Matplotlib, Seaborn and Plotly
+- 💼 Software Engineering Trainee @ UEA — working on the full software development lifecycle: requirements gathering, data modeling, prototyping, and system design
+- 🛠️ Building [SIJ](https://github.com/gyabyss/sij-sistema-integrado-justificativa) — a Next.js 16 + Supabase system to digitize student absence justifications for a public school
+- 🖥️ Developing **KATU** — a WPF/.NET 8 desktop inventory & POS system for small retailers (offline-first, MVVM, EF Core + SQLite)
+- 🌿 Contributing to [AmazoTrack](https://github.com/gyabyss) — an industrial solid waste management platform for the Polo Industrial de Manaus
 - 🐧 Daily driver: **Ubuntu Linux**
-- 🌱 Learning: **SQL**, **Python for Data**, **Test Automation**
+- 🌱 Currently deepening: **TypeScript**, **C# / .NET**, **SQL (advanced)**, and **Python for automation**
 
 ---
 
@@ -53,14 +54,6 @@ I'm a Information Systems student specializing in **Quality Assurance (QA)** wit
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [📊 Análise Escolar](https://github.com/gyabyss/An-lise-Escolar) | Exploratory data analysis with PostgreSQL + Python | PostgreSQL, Pandas, Plotly |
-| [🏫 SIJ](https://github.com/gyabyss) | System to digitize student absence justifications | Next.js, Supabase, TypeScript |
-
----
 
 ### 📫 Get in Touch
 
