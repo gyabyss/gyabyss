@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-I'm an Information Systems student specializing in **Full Stack Development + Python**, building real-world systems for schools, retailers, and institutional governance.
+I'm an Information Systems student specializing in **Full Stack Development**, building real-world systems for schools, retailers, and institutional governance.
 
 - 💼 Software Engineering Trainee @ UEA — working on the full software development lifecycle: requirements gathering, data modeling, prototyping, and system design
 - 🏛️ Leading **MAPA PROEX v2** — institutional governance & analytics platform for UEA's Extension Office (PROEX), currently in MVP data modeling phase
