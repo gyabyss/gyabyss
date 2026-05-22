@@ -12,7 +12,7 @@ I'm an Information Systems student specializing in **Full Stack Development**, b
 
 - 💼 Software Engineering Trainee @ UEA — working on the full software development lifecycle: requirements gathering, data modeling, prototyping, and system design
 - 🏛️ Leading **MAPA PROEX v2** — institutional governance & analytics platform for UEA's Extension Office (PROEX), currently in MVP data modeling phase
-- 🚀 Founder @ **SAUIM** — tech startup in development, participating in Sebrae Supernova (Sebrae + MEC entrepreneurship program)
+- 🚀 Founder @ **SAUIM** — tech startup in development, participating in Sebrae Supernova 
 - ✅ Built [SIJ](https://github.com/gyabyss/sij-sistema-integrado-justificativa) — a Next.js 16 + Supabase system to digitize student absence justifications for a public school
 - 🖥️ Developing **KATU** — a WPF/.NET 8 desktop inventory & POS system for small retailers (offline-first, MVVM, EF Core + SQLite)
 - 🌿 Contributing to [AmazoTrack](https://github.com/gyabyss) — an industrial solid waste management platform for the Polo Industrial de Manaus
