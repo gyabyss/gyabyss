@@ -14,7 +14,6 @@ I'm an Information Systems student specializing in **Full Stack Development**, b
 - 🏛️ Leading **MAPA PROEX v2** — institutional governance & analytics platform for UEA's Extension Office (PROEX), currently in MVP data modeling phase
 - 🚀 Founder @ **SAUIM** — tech startup in development, participating in Sebrae Supernova 
 - ✅ Built [SIJ](https://github.com/gyabyss/sij-sistema-integrado-justificativa) — a Next.js 16 + Supabase system to digitize student absence justifications for a public school
-- 🖥️ Developing **KATU** — a WPF/.NET 8 desktop inventory & POS system for small retailers (offline-first, MVVM, EF Core + SQLite)
 - 🌿 Contributing to [AmazoTrack](https://github.com/gyabyss) — an industrial solid waste management platform for the Polo Industrial de Manaus
 - 🐧 Daily driver: **Ubuntu Linux**
 - 🌱 Currently deepening: **TypeScript**, **C# / .NET**, **SQL (advanced)**, and **Python for data automation**
@@ -39,12 +38,6 @@ I'm an Information Systems student specializing in **Full Stack Development**, b
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Desktop & Systems**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools**
 
